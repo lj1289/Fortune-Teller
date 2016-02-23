@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication36\ConsoleApplication36\bin\Debug\ConsoleApplication36.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication36\ConsoleApplication36\bin\Debug\ConsoleApplication36.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication36\ConsoleApplication36\bin\Debug\ConsoleApplication36.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication36\ConsoleApplication36\obj\Debug\ConsoleApplication36.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication36\ConsoleApplication36\obj\Debug\ConsoleApplication36.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication36\ConsoleApplication36\obj\Debug\ConsoleApplication36.pdb
